@@ -85,3 +85,9 @@
 
 #define VERSION_NUMBER "r38 082896a"
 
+
+#define VERSION_NUMBER "r39 8c63d7d"
+
+
+#define VERSION_NUMBER "r40 0cea899"
+
